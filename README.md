@@ -23,4 +23,13 @@
 
 - replace convolution with innerproduct after global pooling
 
+
+## 
+
+Happy Lantern Festival Report and Code | Kaggle
+https://www.kaggle.com/c/datasciencebowl/discussion/13166#69284
+
+
+## Reference
+
 - [model optimize · Tencent/ncnn Wiki](https://github.com/Tencent/ncnn/wiki/model-optimize)
